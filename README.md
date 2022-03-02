@@ -4,7 +4,7 @@ _Backend Software engineer based in Kiev, Ukraine_ <br>
 
 [Email](mailto:nosid91@gmail/com) / [LinkedIn](https://www.linkedin.com/in/dmitry-redchyts/) / [GitHub](https://github.com/nosid91/) / [Telegram](https://t.me/mahnonestor/)
 
-##💫Summary<br>
+## 💫Summary<br>
 Python developer with 3+ years of experience in commercial
 development. Main projects in the field of information security and ecommerce.
 
@@ -18,7 +18,7 @@ development. Main projects in the field of information security and ecommerce.
 - unit and functional testing;
 
 
-###Python Developer @ [Innovation Development HUB](https://idev-hub.com/) _11/2020 - 12/2021_
+### Python Developer @ [Innovation Development HUB](https://idev-hub.com/) _11/2020 - 12/2021_
 - development of the backend for the mobile car sales application;
 - development of a synchronization service for data consistency
 between two backends;
@@ -30,7 +30,7 @@ environments;
 - Writing Ansible roles and playbooks for deployment on different
 customer environments with different configurations;
 
-###Cyber Security Engineer @ [Softlist](https://www.linkedin.com/company/softlist/) _03/2018 - 11/2020_
+### Cyber Security Engineer @ [Softlist](https://www.linkedin.com/company/softlist/) _03/2018 - 11/2020_
 - development of reputation token enrichment system;
 - development of a tool for integrating corporate information security
 systems with each other;
@@ -38,7 +38,7 @@ systems with each other;
 - development of the system of network traffic analysis and
 subsequent testing of files in a sandbox-type;
 
-## 	🗣️Non-technical skills<br>
+## 🗣️Non-technical skills<br>
 - English **B2**, Upper-Intermediate
 - I can **weigh everything** and **make** the right **decision**
 - I can make **creative ideas**
