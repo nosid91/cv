@@ -47,7 +47,7 @@ subsequent testing of files in a sandbox-type;
 - I can quickly and easily **adapt** to changes
 
 ## 🧑‍🎓Education<br>
-National Technical University of Ukraine 'Kyiv Polytechnic Institute' _2020 - 2021_<br>
+National Technical University of Ukraine '**Kyiv Polytechnic Institute**' _2020 - 2021_<br>
 Master`s degree, Metal physics
 
 ## 💬 Languages<br>
@@ -74,3 +74,4 @@ I started using Python when I was a student to do lab work. At the same time, I 
 - Linux
 - Elasticsearch, Redis, Postgres, MongoDB, MySQL
 - AWS, GCP, Heroku
+- pytest
