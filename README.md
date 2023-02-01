@@ -12,8 +12,9 @@ development. Main projects in the field of information security and ecommerce.
 ### Python Developer @ [Unicsoft](https://unicsoft.com/) _12/2021 - present_
 - development of a backend for an aggregator of streaming platforms;
 - development of crawlers to collect information from third-party platforms using APIs;
-- customizing and improving Github Actions;
-- participated in the development of the architecture of the entire backend;
+- development of a high-loaded system architecture for the aggregation of dealership management systems;
+- backend team management;
+- CI\CD. Gitlab \ Github;
 - code review;
 - unit and functional testing;
 
