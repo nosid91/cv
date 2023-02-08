@@ -15,6 +15,7 @@ development. Main projects in the field of information security and ecommerce.
 - development of a high-loaded system architecture for the aggregation of dealership management systems;
 - backend team management;
 - CI\CD. Gitlab \ Github;
+- Communication with Customer;
 - code review;
 - unit and functional testing;
 
