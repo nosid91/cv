@@ -5,7 +5,7 @@ _Backend Software engineer based in Kiev, Ukraine_ <br>
 [Email](mailto:nosid91@gmail/com) / [LinkedIn](https://www.linkedin.com/in/dmitry-redchyts/) / [GitHub](https://github.com/nosid91/) / [Telegram](https://t.me/mahnonestor/)
 
 ## 💫Summary<br>
-Python developer with 3+ years of experience in commercial
+Python developer with 4+ years of experience in commercial
 development. Main projects in the field of information security and ecommerce.
 
 ## ‍💻 Technical Experience <br>
