@@ -1,21 +1,22 @@
 ## Dima Redchyts
 
-_Backend Software engineer based in Kiev, Ukraine_ <br>
+_Backend Software engineer based in Brovary, Ukraine_ <br>
 
 [Email](mailto:nosid91@gmail/com) / [LinkedIn](https://www.linkedin.com/in/dmitry-redchyts/) / [GitHub](https://github.com/nosid91/) / [Telegram](https://t.me/mahnonestor/)
 
 ## 💫Summary<br>
-Python developer with 4+ years of experience in commercial
+Python developer with 5+ years of experience in commercial
 development. Main projects in the field of information security and ecommerce.
 
 ## ‍💻 Technical Experience <br>
 ### Python Developer @ [Unicsoft](https://unicsoft.com/) _12/2021 - present_
 - development of a backend for an aggregator of streaming platforms;
+- development of a backend for social media platform;
 - development of crawlers to collect information from third-party platforms using APIs;
 - development of a high-loaded system architecture for the aggregation of dealership management systems;
 - backend team management;
 - CI\CD. Gitlab \ Github;
-- Communication with Customer;
+- communication with Customer;
 - code review;
 - unit and functional testing;
 
@@ -67,8 +68,8 @@ I started using Python when I was a student to do lab work. At the same time, I 
 - FastAPI/Flask/Django
 - Flutter, Dart
 - Go
-- Pylint, Black, Yapf
-- Kafka
+- Pylint, Black, Yapf, pytest, pyflake, ruff
+- Kafka, RabbitMQ
 - Centrifugo
 - CI (Gitlab CI, Github Actions)
 - Docker, Docker Compose
@@ -76,4 +77,4 @@ I started using Python when I was a student to do lab work. At the same time, I 
 - Linux
 - Elasticsearch, Redis, Postgres, MongoDB, MySQL
 - AWS, GCP, Heroku
-- pytest
+- Debezium
