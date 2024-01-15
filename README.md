@@ -69,12 +69,15 @@ Proficient in Python and extending my skills to JavaScript and Go for personal p
 - Python
 - Go
 - Dart (Flutter)
+
 ### Web Frameworks
 - FastAPI
 - Flask
 - Django
+
 ### Mobile Development
 - Flutter
+
 ### Code Quality & Testing
 - Pylint
 - Black
@@ -82,33 +85,43 @@ Proficient in Python and extending my skills to JavaScript and Go for personal p
 - pytest
 - Pyflake
 - Ruff
+
 ### Message Brokers
 - Kafka
 - RabbitMQ
+
 ### Real-time Communication
 - Centrifugo
+
 ### Continuous Integration
 - GitLab CI
 - GitHub Actions
+
 ### Containerization & Orchestration
 - Docker
 - Docker Compose
+
 ### Configuration Management
 - Ansible
+
 ### Operating Systems
 - Linux
 - Windows
 - MacOS
+
 ### Databases
 - Elasticsearch
 - Redis
 - Postgres
 - MongoDB
 - MySQL
+
 ### Cloud Platforms
 - AWS
 - GCP
 - Heroku
 - Digital Ocean
+
 ### Change Data Capture
 - Debezium
+
