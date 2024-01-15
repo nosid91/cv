@@ -10,28 +10,24 @@ development. Main projects in the field of information security and ecommerce.
 
 ## ‍💻 Technical Experience <br>
 ### Python Developer @ [Unicsoft](https://unicsoft.com/) _12/2021 - present_
-- development of a backend for an aggregator of streaming platforms;
-- development of a backend for social media platform;
-- development of crawlers to collect information from third-party platforms using APIs;
-- development of a high-loaded system architecture for the aggregation of dealership management systems;
-- backend team management;
-- CI\CD. Gitlab \ Github;
-- communication with Customer;
-- code review;
-- unit and functional testing;
+* Developed backend for a streaming platform aggregator, optimizing API interactions.
+* Engineered backend for a social media platform with a focus on scalability and performance.
+* Implemented web crawlers for data collection from third-party platforms through APIs, ensuring reliable and structured information retrieval.
+* Designed high-load system architecture for aggregating dealership management systems.
+* Managed a backend team, coordinated tasks, and ensured code quality adherence.
+* Utilized CI/CD systems (GitLab, GitHub) for continuous integration and deployment.
+* Engaged in client communication, ensuring timely updates and meeting requirements.
+* Conduct code reviews to maintain a high-quality codebase.
+* Created and executed unit and functional tests for software quality assurance.
 
 
 ### Python Developer @ [Innovation Development HUB](https://idev-hub.com/) _11/2020 - 12/2021_
-- development of the backend for the mobile car sales application;
-- development of a synchronization service for data consistency
-between two backends;
-- 90% test coverage;
-CI/CD:
-- gitlab pipeline configuration;
-- Jenkins configuration for deploying the project on different
-environments;
-- Writing Ansible roles and playbooks for deployment on different
-customer environments with different configurations;
+* Developed backend for a mobile car sales application.
+* Create a synchronization service ensuring data consistency between two backends.
+* Achieved 90% test coverage for enhanced code reliability.
+* Configured GitLab pipelines for continuous integration and deployment.
+* Implemented Jenkins configuration for deploying projects across various environments.
+* Authored Ansible roles and playbooks for deployment in diverse customer environments with varying configurations.
 
 ### Cyber Security Engineer @ [Softlist](https://www.linkedin.com/company/softlist/) _03/2018 - 11/2020_
 - development of reputation token enrichment system;
@@ -42,12 +38,17 @@ systems with each other;
 subsequent testing of files in a sandbox-type;
 
 ## 🗣️Non-technical skills<br>
-- English **B2**, Upper-Intermediate
-- I can **weigh everything** and **make** the right **decision**
-- I can make **creative ideas**
-- I can to competently conduct **discussions** and **persuade**
-- I can **listen** to the interlocutor
-- I can quickly and easily **adapt** to changes
+* Proficient in English (B2, Upper-Intermediate).
+* Strategic decision-making with a meticulous consideration of factors.
+* Creative thinking and generation of innovative ideas.
+* Skillful in conducting articulate discussions and persuasive communication.
+* Active listening and effective engagement with interlocutors.
+* Quick and seamless adaptation to changing environments and circumstances.
+* Strong interpersonal skills, fostering positive collaboration within teams.
+* Exceptional problem-solving abilities, resolving challenges with efficiency.
+* Proactive attitude towards learning and mastering new skills.
+* Excellent time management, ensuring optimal task prioritization and completion.
+* Adept at maintaining a calm and focused demeanor in high-pressure situations.
 
 ## 🧑‍🎓Education<br>
 National Technical University of Ukraine '**Kyiv Polytechnic Institute**' _2020 - 2021_<br>
@@ -59,22 +60,55 @@ Ukraine: **Native** <br>
 English: **B2** <br>
 
 ##	👋 About<br>
-I started using Python when I was a student to do lab work. At the same time, I became interested in information security, and in my fourth year I got a job as an information security engineer at a company. There I began to combine my "desire to create" with the current market needs for IS products. I like to solve non-standard tasks, thanks to such tasks a lot of new things are discovered. Every day I try to learn something new.
+With over 5 years of hands-on experience, I am passionate about delving into system architectures and understanding the intricacies of how they function. My approach is characterized by a keen interest in aligning technical solutions with the specific needs of the business. Beyond just writing code, I enjoy proposing optimal solutions that address the core challenges faced by businesses within the realm of system development.
+Proficient in Python and extending my skills to JavaScript and Go for personal projects, I bring a versatile toolkit to problem-solving. I have a proven track record in leadership, with experience in team management and guiding projects to successful fruition.
 
 
 ## 🦾Professional Skills<br>
+### Languages
 - Python
-- Git
-- FastAPI/Flask/Django
-- Flutter, Dart
 - Go
-- Pylint, Black, Yapf, pytest, pyflake, ruff
-- Kafka, RabbitMQ
+- Dart (Flutter)
+### Web Frameworks
+- FastAPI
+- Flask
+- Django
+### Mobile Development
+- Flutter
+### Code Quality & Testing
+- Pylint
+- Black
+- Yapf
+- pytest
+- Pyflake
+- Ruff
+### Message Brokers
+- Kafka
+- RabbitMQ
+### Real-time Communication
 - Centrifugo
-- CI (Gitlab CI, Github Actions)
-- Docker, Docker Compose
+### Continuous Integration
+- GitLab CI
+- GitHub Actions
+### Containerization & Orchestration
+- Docker
+- Docker Compose
+### Configuration Management
 - Ansible
+### Operating Systems
 - Linux
-- Elasticsearch, Redis, Postgres, MongoDB, MySQL
-- AWS, GCP, Heroku
+- Windows
+- MacOS
+### Databases
+- Elasticsearch
+- Redis
+- Postgres
+- MongoDB
+- MySQL
+### Cloud Platforms
+- AWS
+- GCP
+- Heroku
+- Digital Ocean
+### Change Data Capture
 - Debezium
