@@ -19,7 +19,8 @@ development. Main projects in the field of information security and ecommerce.
 * Engaged in client communication, ensuring timely updates and meeting requirements.
 * Conduct code reviews to maintain a high-quality codebase.
 * Created and executed unit and functional tests for software quality assurance.
-
+* Developed backend for an Instagram-like mobile application, integrating Web3 functionality.
+* Designed architecture and implemented backend for a data processing system based on ML in the medical domain.
 
 ### Python Developer @ [Innovation Development HUB](https://idev-hub.com/) _11/2020 - 12/2021_
 * Developed backend for a mobile car sales application.
@@ -125,3 +126,8 @@ Proficient in Python and extending my skills to JavaScript and Go for personal p
 ### Change Data Capture
 - Debezium
 
+
+### Data Processing
+- Pandas
+- NumPy
+- PySpark
