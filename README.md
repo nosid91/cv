@@ -1,6 +1,6 @@
 ## Dima Redchyts
 
-_Backend Software engineer based in Brovary, Ukraine_ <br>
+_Backend Software engineer based in Ukraine_ <br>
 
 [Email](mailto:nosid91@gmail/com) / [LinkedIn](https://www.linkedin.com/in/dmitry-redchyts/) / [GitHub](https://github.com/nosid91/) / [Telegram](https://t.me/mahnonestor/)
 
